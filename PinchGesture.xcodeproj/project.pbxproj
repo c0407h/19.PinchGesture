@@ -13,6 +13,7 @@
 		577F69D825D787A400DBA043 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 577F69D625D787A400DBA043 /* Main.storyboard */; };
 		577F69DA25D787A400DBA043 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 577F69D925D787A400DBA043 /* Assets.xcassets */; };
 		577F69DD25D787A400DBA043 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 577F69DB25D787A400DBA043 /* LaunchScreen.storyboard */; };
+		577F69E625D78AB200DBA043 /* img-06.png in Resources */ = {isa = PBXBuildFile; fileRef = 577F69E525D78AB200DBA043 /* img-06.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		577F69D925D787A400DBA043 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		577F69DC25D787A400DBA043 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		577F69DE25D787A400DBA043 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		577F69E525D78AB200DBA043 /* img-06.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "img-06.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		577F69CF25D787A400DBA043 /* PinchGesture */ = {
 			isa = PBXGroup;
 			children = (
+				577F69E525D78AB200DBA043 /* img-06.png */,
 				577F69D025D787A400DBA043 /* AppDelegate.swift */,
 				577F69D225D787A400DBA043 /* SceneDelegate.swift */,
 				577F69D425D787A400DBA043 /* ViewController.swift */,
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				577F69DD25D787A400DBA043 /* LaunchScreen.storyboard in Resources */,
+				577F69E625D78AB200DBA043 /* img-06.png in Resources */,
 				577F69DA25D787A400DBA043 /* Assets.xcassets in Resources */,
 				577F69D825D787A400DBA043 /* Main.storyboard in Resources */,
 			);
